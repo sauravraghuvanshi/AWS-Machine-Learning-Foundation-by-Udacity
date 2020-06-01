@@ -1,2 +1,2 @@
-# AWS-Machine-Learning-Foundation-by-Udacity
+# This repositary contain code related to Udacity AWS Machine Learning Foundation Course
  
